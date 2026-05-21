@@ -25,6 +25,15 @@ This file accumulates your best interview stories over time. Each evaluation (Bl
 **Best for questions about:** [list of question types this story answers]
 -->
 
+### Strategic Account Growth - GitLab AE Positioning
+**Source:** Report #016 - GitLab - Strategic Account Executive - Germany
+**S (Situation):** Strategic enterprise customers needed measurable cloud adoption, executive confidence, and a path from technical rollout to business value.
+**T (Task):** Own the customer relationship, align success plans to business goals, and create expansion credibility without losing delivery discipline.
+**A (Action):** Built customer success plans across Microsoft Cloud workloads, ran C-level QBRs with risk and value-realization reporting, and coordinated cross-functional teams to remove blockers.
+**R (Result):** Reached 98 percent adoption within 6 months on an Azure migration, lowered churn by 12 percent, and lifted upsell pipeline by 10 percent.
+**Reflection:** Commercial account growth is strongest when adoption, executive language, and measurable business outcomes are tied together.
+**Best for questions about:** strategic accounts, account growth, QBRs, customer success to AE transition, value realization, expansion.
+
 ### Customer Success Plans - Microsoft Enterprise Adoption
 **Source:** Report #001 - Mastercard - Senior Specialist, Customer Success
 **S (Situation):** Strategic Austrian enterprise customers needed measurable Microsoft Cloud adoption and clear business-value tracking.
@@ -51,3 +60,12 @@ This file accumulates your best interview stories over time. Each evaluation (Bl
 **R (Result):** Onboarded 5+ partners, launched 3 European bank partners, and reduced integration query resolution time by 50 percent.
 **Reflection:** Partner success depends on fast issue routing, clear accountability, and commercial context for technical decisions.
 **Best for questions about:** financial services, partner management, cross-functional delivery, integrations, payments adjacency.
+
+### Public Sector Modernization - Tax System Workstream
+**Source:** Report #005 - Celonis - Manager, Value Engineering - Public Sector Transformation
+**S (Situation):** A public-sector tax system modernization required regulatory alignment, stakeholder coordination, and careful go-live management.
+**T (Task):** Lead the IT workstream and keep delivery aligned with compliance and public-sector stakeholder needs.
+**A (Action):** Owned requirements engineering, UAT cycles, stakeholder alignment, and delivery coordination across the workstream.
+**R (Result):** Protected go-live timelines on a politically sensitive public-sector rollout.
+**Reflection:** Public-sector transformation needs precise governance, transparent risk handling, and patience with institutional complexity.
+**Best for questions about:** public sector, regulated transformation, stakeholder management, UAT, go-live risk, process modernization.
